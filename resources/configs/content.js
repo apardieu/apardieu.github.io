@@ -19,13 +19,14 @@ const content = [
 This local computer game is currently developed by a team of 7 developpers as part of  video game development class. I’m the team ScrumMaster but I also work on several technical aspects of the game as character animations, movements coding, maps creation … 
                  `,
           "fr": `SpilledBeer Arena est un jeu de foot médiéval typé arcade, dans lequel des peuples fantastiques s'affrontent à grands coups de choppes de bière pour asseoir leur domination sur le royaume.  <br/><br/>
-Ce jeu en multijoueur local est actuellement réalisé par une équipe de 7 développeurs dans le cadre d'un cours de Maîtrise en jeux vidéo.<br/><br/> Je suis actuellement le ScrumMaster de l'équipe, en charge de l'application de la méthodologie Scrum au sein du projet et je participe également à différents aspects techniques du développement du jeu : animation des personnages, gestion des mouvements, création des cartes, ...
+Ce jeu en multijoueur local est actuellement réalisé par une équipe de 7 développeurs dans le cadre d'un cours de Maîtrise en jeux vidéo.<br/><br/> Je suis actuellement le ScrumMaster de l'équipe, en charge de l'application de la méthodologie Scrum au sein du projet et je participe également à différents aspects techniques du développement du jeu : animation des personnages, gestion des mouvements, création des cartes, ...<br/><br/>
+Le développement du jeu est actuellement terminé, il sortira prochainement sur itch.io et le trailer est déjà disponible en cliquant sur l'image du jeu.
 
                  `
         },
         "date": "2020",
         "imagePath": "projects/spilledbeer.png",
-        "link": "http://this_is_a_link.com"
+        "link": "https://youtu.be/NFB6-xOFh2Y"
       },
 	  {
 		  "title": {
@@ -64,6 +65,30 @@ Ce jeu en multijoueur local est actuellement réalisé par une équipe de 7 dév
       "fr": "Projets terminés"
     },
     "content": [
+
+              {
+                  "title": {
+                      "en": "CoolDown",
+                      "fr": "CoolDown"
+                  },
+                  "description": {
+                      "en": `Cool Down is a simple, but addictive game !<br/>
+
+Keep your ice alive by dodging many obstacles !<br/>
+Try not to melt before you get into your thirsty human's glass !<br/>
+
+Use the pick-up items wisely to make your trip refreshing !`,
+                      "fr": `Ce jeu a été réalisé avec Unity lors de la GameJam Ludum Dare 46, le 17 avril 2020, par 5 étudiants de maîtrise en "Conception de Jeux Vidéo" de l'Université du Québec à Chicoutimi. <br/><br/>
+                Le jeu consiste à garder son glaçon intact en évitant les obstacles pour parvenir à la fin de la piste. <br/><br/>
+            J'ai pour ma part travaillé sur tout le Level Design du jeu.
+             
+              `
+                  },
+                  "date": "2020",
+                  "imagePath": "projects/cooldown.png",
+                  "link": "https://antoria.itch.io/cooldown"
+
+              },
       {
 		  "title": {
           "en": "Beyond the last frontier",
