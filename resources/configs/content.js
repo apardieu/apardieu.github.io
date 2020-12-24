@@ -11,38 +11,36 @@ const content = [
     "content": [
       {
         "title": {
-          "en": "SpilledBeer Arena",
-          "fr": "SpilledBeer Arena"
+          "en": "Western Polygon VR",
+          "fr": "Western Polygon VR"
         },
         "description": {
-            "en": `SpilledBeer Arena is a medieval arcade football game, where fantastic folks fight each other with beer pints to control the realm. <br/><br/>
-This local computer game is currently developed by a team of 7 developpers as part of  video game development class. I’m the team ScrumMaster but I also work on several technical aspects of the game as character animations, movements coding, maps creation … 
-                 `,
-          "fr": `SpilledBeer Arena est un jeu de foot médiéval typé arcade, dans lequel des peuples fantastiques s'affrontent à grands coups de choppes de bière pour asseoir leur domination sur le royaume.  <br/><br/>
-Ce jeu en multijoueur local est actuellement réalisé par une équipe de 7 développeurs dans le cadre d'un cours de Maîtrise en jeux vidéo.<br/><br/> Je suis actuellement le ScrumMaster de l'équipe, en charge de l'application de la méthodologie Scrum au sein du projet et je participe également à différents aspects techniques du développement du jeu : animation des personnages, gestion des mouvements, création des cartes, ...<br/><br/>
-Le développement du jeu est actuellement terminé, il sortira prochainement sur itch.io et le trailer est déjà disponible en cliquant sur l'image du jeu.
+            "en": ` Personnal project of a Rail Shooting Game that I'm doing on my free time to learn how to use the XR Toolkit of Unity. Picture is from " Polygon Western Frontier pack", an asset pack that I'm using to create this game
+			`,
+          "fr": `Projet personnel de Rail Shooter en VR que je réalise sur mon temps libre pour prendre en main l'utilisation du XR Toolkit de Unity 2020. L'illustration vient du pack d'asset Unity "Polygon Western Frontier Pack" que j'utilise pour réaliser ce projet. 
 
                  `
         },
         "date": "2020",
-        "imagePath": "projects/spilledbeer.png",
-        "link": "https://youtu.be/NFB6-xOFh2Y"
+        "imagePath": "projects/vrshooter.png",
+        "link": "https://assetstore.unity.com/packages/3d/environments/historic/polygon-western-frontier-pack-130564"
       },
-	  {
-		  "title": {
-          "en": "VR Climbing",
-          "fr": "VR Climbing"
+	        {
+        "title": {
+          "en": "PolyTank Mobile",
+          "fr": "PolyTank Mobile"
         },
         "description": {
-            "en": `Climbing virtual reality game, used to teach how to perform basic security movements for climbing practice. <br/><br/> Realized with Unreal Engine.`,
-            "fr": `Jeu d’escalade en réalité virtuelle, permettant l’apprentissage des gestes de sécurité de base en escalade. <br/><br/> Réalisé avec Unreal Engine, ce jeu sérieux permettra à l’utilisateur de réaliser les mouvements classiques pour assurer un grimpeur lors de la montée et de la descente ainsi que d’escalader différentes parois rocheuses.`
+            "en": ` Personnal project of a tank game that I'm doing on my free time to learn the specificity of mobile development in Unity. Picture is from " Simple Military - Cartoon War ", an asset pack that I'm using to create this game
+			`,
+          "fr": `Projet personnel d'un jeu de tank sur mobile que je réalise sur mon temps libre pour prendre en main l'utilisation des outils de développement mobile pour Unity. L'illustration vient du pack d'asset Unity " Simple Military - Cartoon War " que j'utilise pour réaliser ce projet. 
+
+                 `
         },
         "date": "2020",
-        "imagePath": "projects/vrclimbing.png",
-        "link": "http://this_is_a_link.com"
-	  },
-	  
-	  
+        "imagePath": "projects/tank.png",
+        "link": "https://assetstore.unity.com/packages/3d/characters/simple-military-cartoon-war-34497"
+      },
 
             {
                 "title": {
@@ -65,6 +63,25 @@ Le développement du jeu est actuellement terminé, il sortira prochainement sur
       "fr": "Projets terminés"
     },
     "content": [
+      {
+			"title": {
+				  "en": "SpilledBeer Arena",
+				  "fr": "SpilledBeer Arena"
+				},
+				"description": {
+					"en": `SpilledBeer Arena is a medieval arcade football game, where fantastic folks fight each other with beer pints to control the realm. <br/><br/>
+		This local computer game is currently developed by a team of 7 developpers as part of  video game development class. I’m the team ScrumMaster but I also work on several technical aspects of the game as character animations, movements coding, maps creation … 
+						 `,
+				  "fr": `SpilledBeer Arena est un jeu de foot médiéval typé arcade, dans lequel des peuples fantastiques s'affrontent à grands coups de choppes de bière pour asseoir leur domination sur le royaume.  <br/><br/>
+		Ce jeu en multijoueur local est actuellement réalisé par une équipe de 7 développeurs dans le cadre d'un cours de Maîtrise en jeux vidéo.<br/><br/> Je suis actuellement le ScrumMaster de l'équipe, en charge de l'application de la méthodologie Scrum au sein du projet et je participe également à différents aspects techniques du développement du jeu : animation des personnages, gestion des mouvements, création des cartes, ...<br/><br/>
+		Le développement du jeu est actuellement terminé, il sortira prochainement sur itch.io et le trailer est déjà disponible en cliquant sur l'image du jeu.
+
+						 `
+				},
+				"date": "2020",
+				"imagePath": "projects/spilledbeer.png",
+				"link": "https://youtu.be/NFB6-xOFh2Y"
+			  },
 
               {
                   "title": {
