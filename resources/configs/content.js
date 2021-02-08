@@ -65,6 +65,24 @@ const content = [
     "content": [
       {
 			"title": {
+				  "en": "Delta Race - Prototype",
+				  "fr": "Delta Race - Prototype"
+				},
+				"description": {
+					"en": `Hypercasual mobile game developed as part of a technical test for a job interview. I did everything on this game : Code, UI, Shader ... You can click on picture to access itch.io game page.
+						 `,
+				  "fr": `Jeu Hypercasual développé dans le cadre d'un test technique pour une offre d'emplois. J'ai tout réalisé sur ce projet : le code, l'UI, les shaders ... Le jeu est accessible sur itch.io en cliquant sur l'image.
+
+						 `
+				},
+				"date": "2021",
+				"imagePath": "projects/deltarace.png",
+				"link": "https://apardieu.itch.io/delta-race"
+			  },
+
+
+ {
+			"title": {
 				  "en": "SpilledBeer Arena",
 				  "fr": "SpilledBeer Arena"
 				},
@@ -82,7 +100,6 @@ const content = [
 				"imagePath": "projects/spilledbeer.png",
 				"link": "https://youtu.be/NFB6-xOFh2Y"
 			  },
-
               {
                   "title": {
                       "en": "CoolDown",
