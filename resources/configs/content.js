@@ -9,52 +9,22 @@ const content = [
       "fr": "Projets en cours"
     },
     "content": [
-      {
-        "title": {
-          "en": "Western Polygon VR",
-          "fr": "Western Polygon VR"
-        },
-        "description": {
-            "en": ` Personnal project of a Rail Shooting Game that I'm doing on my free time to learn how to use the XR Toolkit of Unity. Picture is from " Polygon Western Frontier pack", an asset pack that I'm using to create this game
-			`,
-          "fr": `Projet personnel de Rail Shooter en VR que je réalise sur mon temps libre pour prendre en main l'utilisation du XR Toolkit de Unity 2020. L'illustration vient du pack d'asset Unity "Polygon Western Frontier Pack" que j'utilise pour réaliser ce projet. 
+      // {
+      //   "title": {
+      //     "en": "Western Polygon VR",
+      //     "fr": "Western Polygon VR"
+      //   },
+      //   "description": {
+      //       "en": ` Personnal project of a Rail Shooting Game that I'm doing on my free time to learn how to use the XR Toolkit of Unity. Picture is from " Polygon Western Frontier pack", an asset pack that I'm using to create this game
+			// `,
+      //     "fr": `Projet personnel de Rail Shooter en VR que je réalise sur mon temps libre pour prendre en main l'utilisation du XR Toolkit de Unity 2020. L'illustration vient du pack d'asset Unity "Polygon Western Frontier Pack" que j'utilise pour réaliser ce projet. 
 
-                 `
-        },
-        "date": "2020",
-        "imagePath": "projects/vrshooter.png",
-        "link": "https://assetstore.unity.com/packages/3d/environments/historic/polygon-western-frontier-pack-130564"
-      },
-	        {
-        "title": {
-          "en": "PolyTank Mobile",
-          "fr": "PolyTank Mobile"
-        },
-        "description": {
-            "en": ` Personnal project of a tank game that I'm doing on my free time to learn the specificity of mobile development in Unity. Picture is from " Simple Military - Cartoon War ", an asset pack that I'm using to create this game
-			`,
-          "fr": `Projet personnel d'un jeu de tank sur mobile que je réalise sur mon temps libre pour prendre en main l'utilisation des outils de développement mobile pour Unity. L'illustration vient du pack d'asset Unity " Simple Military - Cartoon War " que j'utilise pour réaliser ce projet. 
-
-                 `
-        },
-        "date": "2020",
-        "imagePath": "projects/tank.png",
-        "link": "https://assetstore.unity.com/packages/3d/characters/simple-military-cartoon-war-34497"
-      },
-
-            {
-                "title": {
-                    "en": "Caminelot",
-                    "fr": "Caminelot"
-                },
-                "description": {
-                    "fr": `Caminelot était un serveur minecraft crée en 2012 par une équipe de passionnés qui a accueilli une communauté de plusieurs centaines de joueurs jusqu’en 2019. <br/><br/> J’ai eu la chance d’intégrer l’équipe technique du serveur en tant que créateur de contenus graphiques (sprites, textures, modèles 3D) et en tant que rédacteur pour des éléments de background (rédaction des trames narratives de plusieurs quêtes). <br/><br/> Je participe actuellement à la réalisation de contenus sur le nouveau de projet de l’équipe de Caminelot, le serveur Riveciel, un nouveau serveur minecraft axé roleplay qui devrait voir le jour prochainement`,
-                    "en": `Caminelot was a minecraft serveur with a community of hundreds of players until 2019. <br/><br/> I had the opportunity to join the technical team as graphic content producer (2D sprites, textures, 3D models). <br/><br/> I'm currently working on the new team's project, "Riveciel", a new RP minecraft server that will be open soon`
-                },
-                "date": "2013 - 2020",
-                "imagePath": "projects/logo.png",
-                "link": "https://riveciel.fr/"
-            }
+      //            `
+      //   },
+      //   "date": "2020",
+      //   "imagePath": "projects/vrshooter.png",
+      //   "link": "https://assetstore.unity.com/packages/3d/environments/historic/polygon-western-frontier-pack-130564"
+      // },
     ]
   },
   {
@@ -63,6 +33,70 @@ const content = [
       "fr": "Projets terminés"
     },
     "content": [
+
+      {
+        "title": {
+            "en": "Ion Odyssey",
+            "fr": "Ion Odyssey"
+          },
+          "description": {
+            "en": ` Game developped during "Scientific GameJam 2023" in Nancy. The theme of the game jam was to produce a game about a research subject of a Phd student. We developped a game about the journey of an ion that must avoid other ion while traveling in brain cells. 
+               `,
+            "fr": ` Jeu réalisé lors de la "Scientific GameJam 2023" à Nancy dont le thème était de réaliser un jeu en lien avec le sujet de thèse d'un doctorant. Avec mon équipe, nous avons réalisé un jeu mettant en scène un ion sodium qui doit trouver son chemin dans le corps humain en évitant les intéractions électromagnétiques avec d'autres ions. <br/><br/>J'étais chargé du développement du jeu ainsi que de l'initiation des membres de l'équipe à l'utilisaiton de Unity.
+               `
+          },
+          "date": "2023",
+          "imagePath": "projects/ion.png",
+          "link": "https://fiera42.itch.io/ion-odyssey-debug"
+      },
+
+      {
+        "title": {
+            "en": "Hospital Mistakes Room",
+            "fr": "Chambre des erreurs"
+          },
+          "description": {
+            "en": `Serious game in VR used by nurses in hospital to learn how to find some risky situations in their patient's room. 
+            <br/><br/>I developped this application with the "Risk Research" engine that I had already developped, and I added grabbing interactions.  You can click on picture to access a gameplay video.
+               `,
+            "fr": `Serious game en VR pour la formation des aides soignantes en milieu hospitalier. La "Chambre des erreurs" reprend un concept de formation hospitalier qui consiste à placer le soignant dans un environnement au sein duquel se trouve de nombreuses situations non conformes qu'il devra détecter afin d'assurer la qualité des soins.
+            <br/><br/>Pour réaliser l'implémentation de cette application j'ai ré-utilisé l'outil des recherches de risque que j'ai précédemment développé en ajoutant des intéractions de saisies d'objets pour permettre au joueur d'observer plus facilement les éléments du décor pour trouver les erreurs. 
+            <br/><br/>Cette application a été distribuée à plusieurs centres de formation et centres hospitaliers dans la région d'Aix-Marseille et Nice. Cliquez sur l'image pour voir une vidéo du gameplay du jeu.
+  
+               `
+          },
+          "date": "2022",
+          "imagePath": "projects/cdm.png",
+          "link": "https://2jprocess.sharepoint.com/sites/2JProcess/_layouts/15/stream.aspx?id=%2Fsites%2F2JProcess%2FDocuments%20partages%2FProduits%20standards%2FVR%2FCHAMBRE%5FDES%5FERREURS%2FTEASER%2FTeaser%5FChambre%5Fdes%5FErreurs%2Emp4&ga=1"
+      },
+
+      {
+        "title": {
+            "en": "Risk Searches",
+            "fr": "Recherches de risques"
+          },
+          "description": {
+            "en": ` Description in progres ...
+               `,
+            "fr": ` Ma principale réalisation au sein de l'entreprise 2JProcess a été la création d'un moteur permettant de réaliser différentes applications appelées "Recherches de risques". 
+            <br/><br/>Ces serious game en VR visent à sensibiliser les utilisateurs aux situations à risques qu'ils peuvent trouver sur leur lieu de travail en les immergeant dans un environnement dans lesquels ils doivent retrouver ces situations à risques. Les joueurs doivent d'abord détecter le risque, spécifier sa nature et proposer une résolution parmis plusieurs possibles, le tout dans un temps impartis.
+            <br/><br/>Lors de la réalisation de ce moteur j'ai travaillé sur les points suivants : 
+            <br/>• Création des outils permettant la mise en place des environnements et des risques sur Unity
+            <br/>• Déploiement des applications sur les casques VR Meta Quest 2, Pico Neo 2/3/4, HTC Vivre Pro ainsi que le déploiement d'une version PC
+            <br/>• Création d'un outil de supervision sur tablette permettant à une personne extérieure de voir l'évolution en temps réel de la partie d'un joueur en VR
+            <br/>• Conception et rédaction des documentations techniques à destination de l'équipe de production et des clients.
+            <br/><br/> J'ai développé et supervisé la réalisation de 4 recherches de risques dans les environnements suivants : bureaux, entrepôt logistique, chantier et site industriel. Ces différentes applications ont été vendues à plusieurs centaines de licences à des organismes de formations et des clients grand comptes de l'entreprise.
+            <br/><br/> Vous pouvez retrouver une vidéo promotionnelle en cliquant sur l'image ou voir une vidéo de gameplay en cliquant sur l'image du projet "Chambre des erreurs"
+
+
+
+               `
+          },
+          "date": "2021 - 2023",
+          "imagePath": "projects/rdr.png",
+          "link": "https://2jprocess.sharepoint.com/sites/2JProcess/_layouts/15/stream.aspx?id=%2Fsites%2F2JProcess%2FDocuments%20partages%2FProduits%20standards%2FVR%2FRDR%5FBUREAU%2FTEASER%2FTeaser%5FRDR%5FBureau%2Emp4&ga=1"
+      },
+
       {
 			"title": {
 				  "en": "Delta Race - Prototype",
@@ -88,11 +122,11 @@ const content = [
 				},
 				"description": {
 					"en": `SpilledBeer Arena is a medieval arcade football game, where fantastic folks fight each other with beer pints to control the realm. <br/><br/>
-		This local computer game is currently developed by a team of 7 developpers as part of  video game development class. I’m the team ScrumMaster but I also work on several technical aspects of the game as character animations, movements coding, maps creation … 
+		This local computer game is currently developed by a team of 7 developpers as part of  video game development class. I was the team ScrumMaster but I also worked on several technical aspects of the game as character animations, movements coding, maps creation … 
 						 `,
 				  "fr": `SpilledBeer Arena est un jeu de foot médiéval typé arcade, dans lequel des peuples fantastiques s'affrontent à grands coups de choppes de bière pour asseoir leur domination sur le royaume.  <br/><br/>
-		Ce jeu en multijoueur local est actuellement réalisé par une équipe de 7 développeurs dans le cadre d'un cours de Maîtrise en jeux vidéo.<br/><br/> Je suis actuellement le ScrumMaster de l'équipe, en charge de l'application de la méthodologie Scrum au sein du projet et je participe également à différents aspects techniques du développement du jeu : animation des personnages, gestion des mouvements, création des cartes, ...<br/><br/>
-		Le développement du jeu est actuellement terminé, il sortira prochainement sur itch.io et le trailer est déjà disponible en cliquant sur l'image du jeu.
+		Ce jeu en multijoueur local a été réalisé par une équipe de 7 développeurs dans le cadre d'un cours de Maîtrise en jeux vidéo.<br/><br/> J'étais  le ScrumMaster de l'équipe, en charge de l'application de la méthodologie Scrum au sein du projet et j'ai participe également à différents aspects techniques du développement du jeu : animation des personnages, gestion des mouvements, création des cartes, ...<br/><br/>
+		Le trailer est disponible en cliquant sur l'image du jeu.
 
 						 `
 				},
