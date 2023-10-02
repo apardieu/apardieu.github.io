@@ -61,7 +61,7 @@ const content = [
                `,
             "fr": `Serious game en VR pour la formation des aides soignantes en milieu hospitalier. La "Chambre des erreurs" reprend un concept de formation hospitalier qui consiste à placer le soignant dans un environnement au sein duquel se trouve de nombreuses situations non conformes qu'il devra détecter afin d'assurer la qualité des soins.
             <br/><br/>Pour réaliser l'implémentation de cette application j'ai ré-utilisé l'outil des recherches de risque que j'ai précédemment développé en ajoutant des intéractions de saisies d'objets pour permettre au joueur d'observer plus facilement les éléments du décor pour trouver les erreurs. 
-            <br/><br/>Cette application a été distribuée à plusieurs centres de formation et centres hospitaliers dans la région d'Aix-Marseille et Nice. Cliquez sur l'image pour voir une vidéo du gameplay du jeu.
+            <br/><br/>Cette application a été distribuée à plusieurs centres de formation et centres hospitaliers dans la région d'Aix-Marseille et Nice. Cliquez sur l'image pour voir une vidéo de gameplay du jeu.
   
                `
           },
