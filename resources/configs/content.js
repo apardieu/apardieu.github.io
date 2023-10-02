@@ -94,7 +94,7 @@ const content = [
           },
           "date": "2021 - 2023",
           "imagePath": "projects/rdr.png",
-          "link": "https://2jprocess.sharepoint.com/sites/2JProcess/_layouts/15/stream.aspx?id=%2Fsites%2F2JProcess%2FDocuments%20partages%2FProduits%20standards%2FVR%2FRDR%5FBUREAU%2FTEASER%2FTeaser%5FRDR%5FBureau%2Emp4&ga=1"
+          "link": "https://2jprocess.sharepoint.com/:v:/s/2JProcess/EbRb2HlogdRKkW3zwBhHPbAB2HcFYQRBfsSELjZmMqslNg?e=ASQm0B"
       },
 
       {
