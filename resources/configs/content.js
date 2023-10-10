@@ -67,7 +67,7 @@ const content = [
           },
           "date": "2022",
           "imagePath": "projects/cdm.png",
-          "link": "https://2jprocess.sharepoint.com/sites/2JProcess/_layouts/15/stream.aspx?id=%2Fsites%2F2JProcess%2FDocuments%20partages%2FProduits%20standards%2FVR%2FCHAMBRE%5FDES%5FERREURS%2FTEASER%2FTeaser%5FChambre%5Fdes%5FErreurs%2Emp4&ga=1"
+          "link": "https://2jprocess.sharepoint.com/:v:/s/2JProcess/EVA8u9FHb2hMg5UV4tbXwtkBJGuKBiU8EduzASwP5Q9fvg?e=pTvjY4"
       },
 
       {
