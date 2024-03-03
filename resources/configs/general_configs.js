@@ -7,8 +7,8 @@ const generalConfigs = {
     "me": "Arthur Pardieu",
     "image": "me.png",
     "myDescription": {
-      "fr": "Ingénieur Informatique/Jeux Vidéo",
-      "en": "Engineer in Computer Science/Video Games"
+      "fr": "Ingénieur Informatique/Développeur de jeux vidéos",
+      "en": "Engineer in Computer Science/Video games developper"
     },
     "githubLink": "https://github.com/apardieu",
     "linkedinLink": "https://www.linkedin.com/in/arthur-pardieu",
